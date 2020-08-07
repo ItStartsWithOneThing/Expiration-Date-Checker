@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpirationDateChecker.BL", "ExpirationDateChecker.BL\ExpirationDateChecker.BL.csproj", "{5DB889C6-AC67-45F6-BE6E-E7F0CDE32645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpirationDateChecker.CMD", "ExpirationDateChecker.CMD\ExpirationDateChecker.CMD.csproj", "{92484013-342B-429C-A621-EC8432BE720F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpirationDateChecker.BLTests", "ExpirationDateChecker.BLTests\ExpirationDateChecker.BLTests.csproj", "{C7B810D2-8506-4E96-8FE8-F8B40F2461B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DB889C6-AC67-45F6-BE6E-E7F0CDE32645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB889C6-AC67-45F6-BE6E-E7F0CDE32645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB889C6-AC67-45F6-BE6E-E7F0CDE32645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB889C6-AC67-45F6-BE6E-E7F0CDE32645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92484013-342B-429C-A621-EC8432BE720F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92484013-342B-429C-A621-EC8432BE720F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92484013-342B-429C-A621-EC8432BE720F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92484013-342B-429C-A621-EC8432BE720F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B810D2-8506-4E96-8FE8-F8B40F2461B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B810D2-8506-4E96-8FE8-F8B40F2461B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B810D2-8506-4E96-8FE8-F8B40F2461B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B810D2-8506-4E96-8FE8-F8B40F2461B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC9579DC-DE1F-4318-B77D-02BBC59CA57A}
+	EndGlobalSection
+EndGlobal
